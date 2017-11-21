@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-Remembrance of Soldiers
-</title>
 </head
 <body>
 <br><br>
 <nav>
   <ul>
-    <li><a href="index.html">Why We Should Remember</a></li>
+    <li><a href="index.md">Why We Should Remember</a></li>
     <li><a href="Give.html">How we can help</a></li>
   </ul>
 </nav>
