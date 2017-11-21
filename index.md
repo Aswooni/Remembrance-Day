@@ -8,8 +8,8 @@
 
 <nav>
   <ul>
-    <li><a href="Menu.html">Nurses</a></li>
-    <li><a href="Give.html">How we can help</a></li>
+    <li><a href="Menu.md">Nurses</a></li>
+    <li><a href="Give.md">How we can help</a></li>
   </ul>
 </nav>
 <hr>
