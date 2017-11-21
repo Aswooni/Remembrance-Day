@@ -30,8 +30,8 @@
     <center><h2>Video</h2></center>
     
    <br><iframe width="520" height="315"
-src="https://www.youtube.com/embed/ZWm_HTv4z7c">
-</iframe>
+   src="https://www.youtube.com/embed/ZWm_HTv4z7c"></iframe>
+  
 <br><br>
  <hr>
 <i>By: Sarun & Aswinraj</i>
